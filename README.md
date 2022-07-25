@@ -1,16 +1,3 @@
-# e_commerce_demo
+This is a e commerce app UI design 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![e_commerce_design](https://user-images.githubusercontent.com/75016140/180846527-9a7f76e1-fad0-44cf-ad0c-113f2277bb79.PNG)
